@@ -1,0 +1,5 @@
+let example = import "example.spwn"
+
+return{
+    example: example
+}

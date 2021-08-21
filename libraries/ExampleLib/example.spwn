@@ -1,0 +1,6 @@
+example = (){
+    let alpha_group = 1g
+    1g.alpha(0)
+}
+
+return example
